@@ -1,0 +1,6 @@
+project: rnshah9/parasail
+target: parasail
+tests: null
+
+cmds:
+  - cmd: /repo/apps/.libs/parasail_aligner -f @@
