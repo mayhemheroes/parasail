@@ -1,5 +1,5 @@
 project: rnshah9/parasail
-target: parasail
+target: parasail-aligner
 tests: null
 
 cmds:
