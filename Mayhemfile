@@ -2,4 +2,4 @@ project: parasail
 target: parasail-aligner
 
 cmds:
-  - cmd: /repo/apps/.libs/parasail_aligner -f @@
+  - cmd: /parasail_aligner -f @@
