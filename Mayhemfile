@@ -2,4 +2,4 @@ project: parasail
 target: parasail-aligner
 
 cmds:
-  - cmd: /parasail_aligner -f @@
+  - cmd: /install/bin/parasail_aligner -f @@
