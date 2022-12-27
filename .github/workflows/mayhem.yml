@@ -59,7 +59,8 @@ jobs:
       fail-fast: false
       matrix:
         mayhemfile:
-          - mayhem/Mayhemfile
+          - mayhem/Mayhemfile_parasail_matrix_create
+          - mayhem/Mayhemfile_parasail-aligner
 
     steps:
       - uses: actions/checkout@v3
