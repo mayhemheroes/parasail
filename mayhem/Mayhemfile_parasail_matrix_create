@@ -1,0 +1,5 @@
+project: parasail
+target: parasail-matrix-create
+
+cmds:
+  - cmd: /fuzz_parasail_matrix_create
