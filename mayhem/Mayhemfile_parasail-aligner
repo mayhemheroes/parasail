@@ -1,0 +1,5 @@
+project: parasail
+target: parasail-aligner
+
+cmds:
+  - cmd: /mayhem/parasail_aligner -f @@ -g /tmp/parasail.csv
